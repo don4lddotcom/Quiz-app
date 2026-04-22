@@ -1,0 +1,42 @@
+[
+    {
+        "q": "What is the capital of Nigeria",
+        "opts": [
+            "Abeoukuta",
+            "Anambra",
+            "Lagos",
+            "Abuja"
+        ],
+        "ans": "Abuja"
+    },
+    {
+        "q": "Where is Pan -Atlantic University Located>?",
+        "opts": [
+            "Lekki",
+            "Kenya",
+            "Tokyo",
+            "Osun"
+        ],
+        "ans": "Lekki"
+    },
+    {
+        "q": "What is the anti-derivative for sin(x)",
+        "opts": [
+            "tan(x)",
+            "-cos(x)",
+            "cos(x)",
+            "sin(x)"
+        ],
+        "ans": "-cos(x)"
+    },
+    {
+        "q": "Today is what?",
+        "opts": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Sunday"
+        ],
+        "ans": "Monday"
+    }
+]
